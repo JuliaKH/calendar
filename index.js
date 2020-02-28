@@ -20,6 +20,4 @@ function fillMonthDays() {
         $(this).append("<tr></tr>");
     });
 }
-
-console.log('Revert me');
 console.log('Revert me');
